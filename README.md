@@ -47,3 +47,6 @@ The purpose of this collection is to focus on what matters most in learning a ne
 [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/adversarial_autoencoders.ipynb)]
 
 [Bidirectional Generative Adversarial Networks (BiGANs): Adversarial Feature Learning](https://arxiv.org/abs/1605.09782) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/bigan.ipynb)]
+
+[InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/InfoGAN.ipynb)]
+
