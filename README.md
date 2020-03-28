@@ -15,3 +15,6 @@ The purpose of this collection is to focus on what matters most in learning a ne
 [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/ccnet.py)]
 
 [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/abs/1811.08201) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/cgnet.py)]
+
+[Dual Attention Network for Scene Segmentation
+](https://arxiv.org/abs/1809.02983) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/danet.py)]
