@@ -27,5 +27,7 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation](https://arxiv.org/abs/1904.02216) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/dfanet.py)]
 
-[Efficient Neural Network For Real Semantic Segmentation](https://ieeexplore.ieee.org/document/8822228) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
+[ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/espnet.py)]
+
+[Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1811.11431) [[Snippet](https://arxiv.org/abs/1411.4038)]
 
