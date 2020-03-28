@@ -95,7 +95,7 @@ Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/Ro
 
 **ResNet:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
 
-**Senet** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1709.01507) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/senet/se_resnet_c.py)
+**Senet:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1709.01507) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/senet/se_resnet_c.py)
 
 
 
