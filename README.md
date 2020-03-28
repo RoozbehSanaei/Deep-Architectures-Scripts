@@ -71,3 +71,4 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1612.05424) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
 
+[Siamesese Convolutional Networks (Classic Paper)](http://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/siamese_mnist.ipynb)]
