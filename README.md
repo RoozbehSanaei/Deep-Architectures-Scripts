@@ -95,17 +95,17 @@ Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/Ro
 
 **ResNet:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
 
-**SENet:** [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/senet/se_resnet_c.py)
+**SENet:** [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/senet/se_resnet_c.py)
 
-**ShuffleNet:** [An Extremely Efficient Convolutional Neural Network for MobileDevices](https://arxiv.org/abs/1707.01083) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/shufflenet/shufflenet_c.py)
+**ShuffleNet:** [An Extremely Efficient Convolutional Neural Network for MobileDevices](https://arxiv.org/abs/1707.01083) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/shufflenet/shufflenet_c.py)
 
-**SqueezeNet:** [AlexNet-Level Accuacy with 50x Fewer parameters and <0.5MB Model Size](https://arxiv.org/abs/1602.07360) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/squeezenet/squeezenet_c.py)
+**SqueezeNet:** [AlexNet-Level Accuacy with 50x Fewer parameters and <0.5MB Model Size](https://arxiv.org/abs/1602.07360) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/squeezenet/squeezenet_c.py)
 
-**Vgg:** [Very Deep Convolutional Networks For Large Scale Image Recognition](https://arxiv.org/abs/1409.1556) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/vgg/vgg_c.py)
+**Vgg:** [Very Deep Convolutional Networks For Large Scale Image Recognition](https://arxiv.org/abs/1409.1556) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/vgg/vgg_c.py)
 
-**WRN:** [Wide Residual Network](https://arxiv.org/abs/1605.07146) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/wrn/wrn_c.py)
+**WRN:** [Wide Residual Network](https://arxiv.org/abs/1605.07146) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/wrn/wrn_c.py)
 
-**Xeption:** [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/xception/xception_c.py)
+**Xeption:** [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/xception/xception_c.py)
 
 
 ## Others
