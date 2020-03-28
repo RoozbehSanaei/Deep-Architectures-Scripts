@@ -72,9 +72,9 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/abs/1606.01583) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/sgan/sgan.py)]
 
-[Semi-Supervised Learning with Generative Adversarial Networks](https://arxiv.org/abs/1606.01583) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/sgan/sgan.py)]
+[Implementation of Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.](https://arxiv.org/abs/1606.01583) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/srgan/srgan.py)]
 
-[Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1612.05424) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
+[Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1609.04802) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
 
 
 ## Others
