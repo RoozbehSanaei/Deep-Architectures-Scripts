@@ -80,6 +80,10 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1609.04802) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
 
+# Feature Extractors
+[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) [[Snippet](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/zoo/densenet/densenet_c.py)]
+
+
 
 ## Others
 
