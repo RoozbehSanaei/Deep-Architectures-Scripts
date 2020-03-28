@@ -110,4 +110,4 @@ Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/Ro
 
 ## Classics
 
-[**Siamesese Convolutional Networks**] [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/siamese_mnist.ipynb)]
+**Siamesese Convolutional Networks** [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/siamese_mnist.ipynb)]
