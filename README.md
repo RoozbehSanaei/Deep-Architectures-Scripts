@@ -80,22 +80,22 @@ The purpose of this collection is to focus on what matters most in learning a ne
 # Feature Extractors
 **DenseNet:** [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/densenet/densenet_c.py)]
 
-**Inception V1,V2:** [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf) [[Snippet V1](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v1_c.py),[Snippet V2](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v2_c.py)]
+**Inception V1,V2:** [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) [[Snippet V1](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v1_c.py),[Snippet V2](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v2_c.py)]
 
 **Inception V3:** [Rethinking the Inception Architecture for Computer Vision
 ](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v3_c.py)]
 
 **MobileNet V1:** [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
-Applications](https://arxiv.org/pdf/1704.04861.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v1_c.py)]
+Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v1_c.py)]
 
 **MobileNet V2:** [MobileNetV2: Inverted Residuals and Linear Bottlenecks
-](https://arxiv.org/pdf/1801.04381.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v2_c.py)]
+](https://arxiv.org/abs/1801.04381) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v2_c.py)]
 
-**MobileNet V3:** [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v3_c.py)]
+**MobileNet V3:** [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v3_c.py)]
 
-**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
+**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
 
-**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)
+**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)
 
 ## Others
 
