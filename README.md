@@ -93,6 +93,10 @@ Applications](https://arxiv.org/pdf/1704.04861.pdf) [[Snippet](https://github.co
 
 **MobileNet V3:** [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v3_c.py)]
 
+**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
+
+**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)
+
 ## Others
 
 [Siamesese Convolutional Networks (Classic Paper)](http://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/siamese_mnist.ipynb)]
