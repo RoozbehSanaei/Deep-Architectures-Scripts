@@ -108,6 +108,6 @@ Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/Ro
 **Xeption:** [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/xception/xception_c.py)]
 
 
-## Classics
+# Classics
 
 **Siamesese Convolutional Networks** [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/siamese_mnist.ipynb)]
