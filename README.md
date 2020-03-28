@@ -52,5 +52,10 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/acgan.ipynb)]
 
-[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/acgan.ipynb)]
+[DualGAN: Unsupervised Dual Learning for Image-to-Image Translation](https://arxiv.org/abs/1704.02510) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/DualGAN.ipynb)]
+
+[Boundary Seeking GAN](https://arxiv.org/abs/1702.08431) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/boundary_seeking_gan.ipynb)]
+
+[Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://openreview.net/forum?id=BJ--gPcxl) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/ccgan.ipynb)]
+
 
