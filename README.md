@@ -87,6 +87,9 @@ The purpose of this collection is to focus on what matters most in learning a ne
 **MobileNet V1:** [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
 Applications](https://arxiv.org/pdf/1704.04861.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v1_c.py)]
 
+**MobileNet V2:** [MobileNetV2: Inverted Residuals and Linear Bottlenecks
+](https://arxiv.org/pdf/1801.04381.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/tree/master/zoo/mobilenet)]
+
 
 ## Others
 
