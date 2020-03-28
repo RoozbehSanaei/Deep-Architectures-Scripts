@@ -31,5 +31,5 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1811.11431) [[Snippet](https://arxiv.org/abs/1411.4038)]
 
-[Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/pdf/1908.07919.pdf) [[Snippet] (https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/hrnet.py)]
+[Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/pdf/1908.07919.pdf) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/hrnet.py)]
 
