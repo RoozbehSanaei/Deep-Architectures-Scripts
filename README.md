@@ -18,3 +18,5 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Dual Attention Network for Scene Segmentation
 ](https://arxiv.org/abs/1809.02983) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/danet.py)]
+
+[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/deeplabv3.py)]
