@@ -58,4 +58,15 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://openreview.net/forum?id=BJ--gPcxl) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/ccgan.ipynb)]
 
+[Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/cgan.ipynb)]
+
+[Coupled Generative Adversarial Networks](https://arxiv.org/abs/1606.07536) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/cogan.ipynb)]
+
+[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/cyclegan.ipynb)]
+
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/dcgan.ipynb)]
+
+[Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/abs/1703.05192) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/discoGAN.ipynb)]
+
+
 
