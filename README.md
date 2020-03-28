@@ -1,4 +1,4 @@
-# Papers with Snippets
+# Papers with Snippet
 
 This collection aims to gather the most simple and readable implementation of associated with machine learning papers, and to extract the core concept excrept from the full body of these codes, The purpose is to focus on what matters the most in learning  new concepts.
 
