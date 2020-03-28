@@ -93,9 +93,11 @@ Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/Ro
 
 **MobileNet V3:** [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v3_c.py)]
 
-**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
+**ResNet:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
 
-**ResNet** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)
+**ResNext** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1611.05431) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnext/resnext_cifar10.py)
+
+
 
 ## Others
 
