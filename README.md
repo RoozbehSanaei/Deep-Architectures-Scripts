@@ -1,6 +1,6 @@
 # Papers with Snippet
 
-This collection aims to gather the most simple and readable implementation of deep learning papers, and to extract the core concept excrept from the full body of these codes, The purpose is to focus on what matters the most in learning  new concepts.
+This collection aims to gather the most simple and readable excrept that demonstrates core concept of a deep learning article, The purpose is to focus on what matters the most in learning new concepts.
 
 ## Semantic Segmentation Architectures
 **ENet**: [A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
