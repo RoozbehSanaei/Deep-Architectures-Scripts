@@ -1,6 +1,6 @@
 # Papers with snippet
 
-The purpose of this collection is to focus on what matters most in learning a new concept, The goal was to find the most simple and readable implementation of a particular concept, and to extract the core concept excerpt from the full body of the code. 
+The purpose of this collection is to focus on what matters most in learning a new concept,I tried to find the most simple and readable implementation of a particular concept, and to extract the core concept excerpt from the full body of the code. 
 
 ## Semantic Segmentation Architectures
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
@@ -68,8 +68,12 @@ The purpose of this collection is to focus on what matters most in learning a ne
 [Image-to-Image Translation with Conditional Adversarial Networks
 ](https://arxiv.org/abs/1611.07004) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pix2pix.ipynb)]
 
+[Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/lsgan/lsgan.py)]
+
+[Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/lsgan/lsgan.py)]
 
 [Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1612.05424) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
+
 
 ## Others
 
