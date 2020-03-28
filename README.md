@@ -66,5 +66,7 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/abs/1703.05192) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/discoGAN.ipynb)]
 
+[Image-to-Image Translation with Conditional Adversarial Networks
+](https://arxiv.org/abs/1611.07004) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pix2pix.ipynb)]
 
 
