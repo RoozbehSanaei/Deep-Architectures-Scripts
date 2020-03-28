@@ -80,9 +80,6 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1609.04802) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
 
-## Generative adversarial networks
-
-
 
 ## Others
 
