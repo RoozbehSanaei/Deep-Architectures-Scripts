@@ -1,6 +1,8 @@
 # Papers with snippet
 Deep learning articles and their snippets
 
+The purpose of this collection is to focus on what matters most in learning a new machine learning concept, which is often only small portion of the code repository
+
 ## Semantic Segmentation
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
 
