@@ -46,4 +46,4 @@ The purpose of this collection is to focus on what matters most in learning a ne
 ## Generative adversarial networks
 [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/adversarial_autoencoders.ipynb)]
 
-[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1511.05644) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/aae/aae.py)]
+[Bidirectional Generative Adversarial Networks (BiGANs): Adversarial Feature Learning](https://arxiv.org/abs/1605.09782) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/bigan.ipynb)]
