@@ -89,8 +89,9 @@ The purpose of this collection is to focus on what matters most in learning a ne
 Applications](https://arxiv.org/pdf/1704.04861.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v1_c.py)]
 
 **MobileNet V2:** [MobileNetV2: Inverted Residuals and Linear Bottlenecks
-](https://arxiv.org/pdf/1801.04381.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/tree/master/zoo/mobilenet)]
+](https://arxiv.org/pdf/1801.04381.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v2_c.py)]
 
+**MobileNet V3:** [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v3_c.py)]
 
 ## Others
 
