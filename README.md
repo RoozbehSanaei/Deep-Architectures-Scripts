@@ -1,4 +1,4 @@
-# Papers with snippets
+# Papers with snippet
 Deep learning articles and their gist snippets
 
 ## Semantic Segmentation
