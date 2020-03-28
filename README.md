@@ -3,7 +3,7 @@
 The purpose of this collection is to focus on what matters most in learning a new concept,I tried to find the most simple and readable implementation of a particular concept, and to extract the core concept excerpt from the full body of the code. 
 
 ## Semantic Segmentation Architectures
-[A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[**ENET**](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
+[**ENet**: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
 
 **ENCNet:** [Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/encnet.py)]
 
