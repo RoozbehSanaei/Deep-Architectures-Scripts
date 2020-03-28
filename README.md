@@ -101,6 +101,12 @@ Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/Ro
 
 **SqueezeNet:** [AlexNet-Level Accuacy with 50x Fewer parameters and <0.5MB Model Size](https://arxiv.org/abs/1602.07360) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/squeezenet/squeezenet_c.py)
 
+**Vgg:** [Very Deep Convolutional Networks For Large Scale Image Recognition](https://arxiv.org/abs/1409.1556) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/vgg/vgg_c.py)
+
+**WRN:** [Wide Residual Network](https://arxiv.org/abs/1605.07146) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/wrn/wrn_c.py)
+
+**Xeption:** [Wide Residual Network](https://arxiv.org/abs/1610.02357.abs) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/xception/xception_c.py)
+
 
 ## Others
 
