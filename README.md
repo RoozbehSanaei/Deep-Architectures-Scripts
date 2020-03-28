@@ -70,3 +70,5 @@ The purpose of this collection is to focus on what matters most in learning a ne
 ](https://arxiv.org/abs/1611.07004) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pix2pix.ipynb)]
 
 
+[Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1612.05424) [[Snippet](https://github.com/eriklindernoren/Keras-GAN/blob/master/pixelda/pixelda.py)]
+
