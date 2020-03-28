@@ -44,7 +44,7 @@ This collection aims to gather the most simple and readable implementation of as
 
 **InfoGAN:** [Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/InfoGAN.ipynb)]
 
-**ACGAN:** [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/acgan.ipynb)]
+**ACGAN:** [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)[[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/acgan.ipynb)]
 
 **DualGAN:** [Unsupervised Dual Learning for Image-to-Image Translation](https://arxiv.org/abs/1704.02510) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/DualGAN.ipynb)]
 
@@ -93,12 +93,11 @@ Applications](https://arxiv.org/abs/1704.04861) [[Snippet](https://github.com/Ro
 
 **MobileNet V3:** [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/mobilenet/mobilenet_v3_c.py)]
 
-**ResNet:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet](https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
+**ResNet:** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) [[Snippet (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/resnet/resnet_v2_c.py)]
 
-**SENet:** [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) [[Snippet]
-(https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/senet/se_resnet_c.py)
+**SENet:** [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)[[Snippet(https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/senet/se_resnet_c.py)]
 
-**ShuffleNet:** [An Extremely Efficient Convolutional Neural Network for MobileDevices](https://arxiv.org/abs/1707.01083) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/shufflenet/shufflenet_c.py)
+**ShuffleNet:** [An Extremely Efficient Convolutional Neural Network for MobileDevices](https://arxiv.org/abs/1707.01083)[[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/shufflenet/shufflenet_c.py)
 
 **SqueezeNet:** [AlexNet-Level Accuacy with 50x Fewer parameters and <0.5MB Model Size](https://arxiv.org/abs/1602.07360) [[Snippet] (https://github.com/RoozbehSanaei/keras-idiomatic-programmer/blob/master/zoo/squeezenet/squeezenet_c.py)
 
