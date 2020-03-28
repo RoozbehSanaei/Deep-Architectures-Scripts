@@ -34,3 +34,11 @@ The purpose of this collection is to focus on what matters most in learning a ne
 [Deep High-Resolution Representation Learning for Visual Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_ICNet_for_Real-Time_ECCV_2018_paper.pdf) [[Snippet](https://github.com/Tramac/awesome-semantic-segmentation-pytorch/blob/master/core/models/icnet.py)]
 
 [LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/abs/1905.02423) [[Snippet](https://github.com/Tramac/awesome-semantic-segmentation-pytorch/blob/master/core/models/lednet.py)]
+
+[OCNet: Object Context Network for Scene Parsing](https://arxiv.org/pdf/1809.00916.pdf) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/ocnet.py)]
+
+[PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_PSANet_Point-wise_Spatial_ECCV_2018_paper.pdf) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/psanet.py)]
+
+[Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/pspnet.py)]
+
+
