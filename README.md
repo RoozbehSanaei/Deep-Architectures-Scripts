@@ -1,7 +1,7 @@
 # Papers with snippet
 Deep learning articles and their snippets
 
-The purpose of this collection is to focus on what matters most in learning a new concept, I tried to find the simplest and most clear implementations of a particular concept, and extract the core concept that is often a small portion of the compete code. 
+The purpose of this collection is to focus on what matters most in learning a new concept, I tried to find the simplest and most clear implementations of a particular concept, and extract the core concept that is often a small portion of the complete code. 
 
 ## Semantic Segmentation Architectures
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
@@ -22,3 +22,10 @@ The purpose of this collection is to focus on what matters most in learning a ne
 [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/deeplabv3.py)]
 
 [DenseASPP for Semantic Segmentation in Street Scenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/denseaspp.py)]
+
+[DenseASPP for Semantic Segmentation in Street Scenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/denseaspp.py)]
+
+[DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation](https://arxiv.org/abs/1904.02216) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/dfanet.py)]
+
+[Efficient Neural Network For Real Semantic Segmentation](https://ieeexplore.ieee.org/document/8822228) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
+
