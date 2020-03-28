@@ -74,6 +74,10 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Implementation of Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.](https://arxiv.org/abs/1606.01583) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/srgan/srgan.py)]
 
+[Wasserstein GAN](https://arxiv.org/abs/1701.07875) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/wgan/wgan.py)]
+
+[Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/wgan_gp/wgan_gp.py)]
+
 [Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1609.04802) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
 
 
