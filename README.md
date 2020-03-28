@@ -72,6 +72,9 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/lsgan/lsgan.py)]
 
+[Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/sgan/sgan.py)]
+
+
 [Implementation of Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks.](https://arxiv.org/abs/1612.05424) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/pixelDA.ipynb)]
 
 
