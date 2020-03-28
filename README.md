@@ -50,3 +50,7 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/InfoGAN.ipynb)]
 
+[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/acgan.ipynb)]
+
+[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) [[Snippet](https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/acgan.ipynb)]
+
