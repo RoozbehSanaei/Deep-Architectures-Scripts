@@ -16,6 +16,8 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/abs/1811.08201) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/cgnet.py)]
 
+[Bidirectional Generative Adversarial Networks: Adversarial Feature Learning](https://arxiv.org/abs/1605.09782) [[Snippet]https://github.com/RoozbehSanaei/deep-learning-notebooks/blob/master/bigan.ipynby)]
+
 [Dual Attention Network for Scene Segmentation
 ](https://arxiv.org/abs/1809.02983) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/danet.py)]
 
