@@ -41,4 +41,5 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/pspnet.py)]
 
-
+## Generative adversarial networks
+[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) [[Snippet](https://github.com/RoozbehSanaei/Keras-GAN/blob/master/aae/aae.py)]
