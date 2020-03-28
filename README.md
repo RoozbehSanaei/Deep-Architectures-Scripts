@@ -25,8 +25,6 @@ The purpose of this collection is to focus on what matters most in learning a ne
 
 [DenseASPP for Semantic Segmentation in Street Scenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/denseaspp.py)]
 
-[DenseASPP for Semantic Segmentation in Street Scenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/denseaspp.py)]
-
 [DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation](https://arxiv.org/abs/1904.02216) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/dfanet.py)]
 
 [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) [[Snippet](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/espnet.py)]
