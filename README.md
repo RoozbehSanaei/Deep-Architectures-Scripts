@@ -1,5 +1,4 @@
 # Papers with snippet
-Deep learning articles and their snippets
 
 The purpose of this collection is to focus on what matters most in learning a new concept, I tried to find the simplest and clearest implementation of a particular concept, and find the core concept excerpt that is often a small portion of the complete body of the code. 
 
