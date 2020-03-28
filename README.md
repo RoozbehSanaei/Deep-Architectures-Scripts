@@ -80,7 +80,9 @@ The purpose of this collection is to focus on what matters most in learning a ne
 # Feature Extractors
 **DenseNet:** [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) [[Snippet](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/zoo/densenet/densenet_c.py)]
 
+**Inception V1,V2:** [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf) [[Snippet V1](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v1_c.py),[Snippet V2](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v2_c.py)]
 
+**Inception V3:** [Going deeper with convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf) [[Snippet](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/zoo/inception/inception_v3_c.py)]
 
 ## Others
 
