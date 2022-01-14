@@ -1,4 +1,4 @@
-# Architectures Simplified
+# Deep Architectures Simplified
 
 This collection aims to gather most simple and readable codes which demonstrate different deep architectures clearly
 
