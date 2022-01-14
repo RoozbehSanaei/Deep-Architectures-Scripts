@@ -1,6 +1,6 @@
 # Architectures Simplified
 
-This collection aims to gather most simple and readable codes demonstrating different deep architectures
+This collection aims to gather most simple and readable codes which demonstrate different deep architectures clearly
 
 ## Semantic Segmentation Architectures
 **ENet**: [A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[Code](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
