@@ -2,7 +2,7 @@
 
 This collection aims to gather most simple and readable codes which demonstrate different deep architectures clearly
 
-## Semantic Segmentation Architectures
+## Semantic Segmentation 
 **ENet**: [A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) [[Code](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/enet.py)]
 
 **ENCNet:** [Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904) [[Code](https://github.com/RoozbehSanaei/awesome-semantic-segmentation-pytorch/blob/master/core/models/encnet.py)]
